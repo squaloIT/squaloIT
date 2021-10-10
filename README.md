@@ -1,6 +1,6 @@
 ## 👋 Hello there, I’m Nikola aka @squaloIT, and I'm JavaScript developer and teacher. 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Compiled_Shark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCompiled_Shark&screen_name=Compiled_Shark)
-- 👀 I’m interested in web development, and I consider myself fullstack JavaScript developer.
+- 👀 I’m former IT Lecturer. Now working as an all-round Javascript developer working in Node.js, React, Electron, Angular
 - 👨‍🏫 I've been teaching for almost 5 years now, and I love it, it gives me energy and enthusiasm. I mostly teach JS, client and server-side, but I also teach PHP and databases. 
 - 🌱 I’m currently learning everything 🤣, most recently getting a grip of web assemblies. 😎
 - 📫 You can reach me on nikola.mihajlovic@ict.edu.rs and on twitter linked above 👆.
@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 💡 Most important projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=we-groove-master-thesis&theme=github_dark)](https://github.com/squaloIT/we-groove-master-thesis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=react-graph-node.js&theme=github_dark)](https://github.com/squaloIT/react-graph-node.js)
 
 ### ⚡ Github stats:
 [![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=squaloIT&count_private=true&show_icons=true&theme=github_dark)](https://github.com/squaloIT/github-readme-stats)
