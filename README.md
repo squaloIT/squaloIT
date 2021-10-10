@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 💡 Most important projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=we-groove-master-thesis)](https://github.com/squaloIT/we-groove-master-thesis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=react-graph-node.js)](https://github.com/squaloIT/react-graph-node.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=we-groove-master-thesis&theme=github_dark)](https://github.com/squaloIT/we-groove-master-thesis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squaloIT&repo=react-graph-node.js&theme=github_dark)](https://github.com/squaloIT/react-graph-node.js)
 
 ### ⚡ Github stats:
-[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=squaloIT&count_private=true&show_icons=true)](https://github.com/squaloIT/github-readme-stats)
+[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=squaloIT&count_private=true&show_icons=true&theme=github_dark)](https://github.com/squaloIT/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squaloIT&layout=compact)](https://github.com/squaloIT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squaloIT&layout=compact&theme=github_dark)](https://github.com/squaloIT/github-readme-stats)
