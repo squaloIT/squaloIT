@@ -1,10 +1,10 @@
 ## 👋 Hello there, I’m Nikola aka @squaloIT, and I'm JavaScript developer and teacher. 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompiledShark?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCompiled_Shark&screen_name=Compiled_Shark)
-- 👀 I’m former IT Lecturer. Now working as an all-round Javascript developer working in Node.js, React, Electron, Angular.
-- 👨‍🏫 I've been teaching for almost 5 years now, and I love it, it gives me energy and enthusiasm. I mostly teach JS, client and server-side, but I also teach PHP and databases. 
+- 👀 I’m former IT Lecturer. Now working as an Software Architect working in Node.js, PHP, Laravel, React, Electron, Angular.
+- 👨‍🏫 I've been teaching for almost 8 years now, and I love it, it gives me energy and enthusiasm. I mostly teach JS, client and server-side, but I also teach PHP and databases. 
 - 🌱 I’m currently learning everything 🤣, most recently getting a grip of web assemblies. 😎
 - 📫 You can reach me on nikola.mihajlovic@ict.edu.rs and on twitter linked above 👆.
-- 🥅 2024 Goals: Contribute more to Open Source projects. Open youtube channel with my buddies and doing game analysis there. 
+- 🥅 2025 Goals: Contribute more to Open Source projects. Finish the ticketing project. Win a muay thai fight. 
 - ⚡ Fun facts: I love football and I enjoy watching games and making in depth analysis. 
 <hr/>
 <!---
